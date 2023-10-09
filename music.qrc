@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/ggbone.mp3</file>
+    </qresource>
+</RCC>

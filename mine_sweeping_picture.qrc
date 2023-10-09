@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk1.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk2.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk3.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk4.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk5.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk6.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/blk7.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/block_close.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/block_open.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/boom.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/clickboom.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele0.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele1.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele2.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele3.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele4.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele5.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele6.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele7.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele8.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele9.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/ele10.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/example.png</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/good.png</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/keilboom.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/look.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/lose.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/mine_title.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/proud.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/redflag.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/rule.jpg</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/smile.bmp</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/sorry.jpg</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/unknow.png</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/win.jpg</file>
+        <file>C:/Users/30882/Downloads/qt---games---minesweeping-master/图片素材/字符8.bmp</file>
+    </qresource>
+</RCC>

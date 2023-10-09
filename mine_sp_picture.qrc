@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mine_sweeping/blk1.bmp</file>
+        <file>mine_sweeping/blk2.bmp</file>
+        <file>mine_sweeping/blk3.bmp</file>
+        <file>mine_sweeping/blk4.bmp</file>
+        <file>mine_sweeping/blk6.bmp</file>
+        <file>mine_sweeping/blk7.bmp</file>
+        <file>mine_sweeping/block_close.bmp</file>
+        <file>mine_sweeping/block_open.bmp</file>
+        <file>mine_sweeping/clickboom.bmp</file>
+        <file>mine_sweeping/ele0.bmp</file>
+        <file>mine_sweeping/ele1.bmp</file>
+        <file>mine_sweeping/ele2.bmp</file>
+        <file>mine_sweeping/ele4.bmp</file>
+        <file>mine_sweeping/ele5.bmp</file>
+        <file>mine_sweeping/ele6.bmp</file>
+        <file>mine_sweeping/ele7.bmp</file>
+        <file>mine_sweeping/ele9.bmp</file>
+        <file>mine_sweeping/ele10.bmp</file>
+        <file>mine_sweeping/example.png</file>
+        <file>mine_sweeping/good.png</file>
+        <file>mine_sweeping/look.bmp</file>
+        <file>mine_sweeping/lose.bmp</file>
+        <file>mine_sweeping/mine_title.bmp</file>
+        <file>mine_sweeping/proud.bmp</file>
+        <file>mine_sweeping/rule.jpg</file>
+        <file>mine_sweeping/smile.bmp</file>
+        <file>mine_sweeping/sorry.jpg</file>
+        <file>mine_sweeping/blk5.bmp</file>
+        <file>mine_sweeping/boom.bmp</file>
+        <file>mine_sweeping/ele3.bmp</file>
+        <file>mine_sweeping/ele8.bmp</file>
+        <file>mine_sweeping/keilboom.bmp</file>
+        <file>mine_sweeping/redflag.bmp</file>
+        <file>mine_sweeping/win.png</file>
+        <file>mine_sweeping/unknow.png</file>
+        <file>mine_sweeping/blk8.bmp</file>
+    </qresource>
+</RCC>

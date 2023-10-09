@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/01_weather.png</file>
+        <file>picture/02_music.png</file>
+        <file>picture/03_data.png</file>
+        <file>picture/04_game.png</file>
+        <file>picture/05_music.png</file>
+        <file>picture/06_start.png</file>
+        <file>picture/07_prior.png</file>
+        <file>picture/08_next.png</file>
+        <file>picture/09_stop.png</file>
+        <file>picture/10_find.png</file>
+        <file>picture/11.png</file>
+        <file>picture/12.png</file>
+        <file>picture/13.png</file>
+        <file>picture/14.png</file>
+        <file>picture/15.png</file>
+        <file>picture/16_mine_sweeping.png</file>
+        <file>picture/17_game.png</file>
+        <file>picture/18_weather.png</file>
+        <file>picture/19_mydata.png</file>
+        <file>picture/20.png</file>
+        <file>picture/21.png</file>
+        <file>picture/22.png</file>
+        <file>picture/23_shidu (1).png</file>
+        <file>picture/24_weather.png</file>
+        <file>picture/25_wendu.png</file>
+        <file>picture/26.png</file>
+        <file>picture/27.png</file>
+    </qresource>
+</RCC>
